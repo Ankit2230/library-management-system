@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Harry Potter 1",
+        "author": "JK",
+        "isbn": "FEJNCEN2EIIJ2DN",
+        "total_copies": 15,
+        "available_copies": 14
+    },
+    {
+        "title": "Harry potter 2",
+        "author": "jk",
+        "isbn": "BYTY7T7VYFYF",
+        "total_copies": 1,
+        "available_copies": 1
+    },
+    {
+        "title": "Rich Dad , Poor Dad",
+        "author": "Robert",
+        "isbn": "FJNVI3F93JVIN",
+        "total_copies": 11,
+        "available_copies": 11
+    },
+    {
+        "title": "Psy of Mny",
+        "author": "Morgan",
+        "isbn": "CJEWN9IJUIWCNINI",
+        "total_copies": 5,
+        "available_copies": 4
+    }
+]

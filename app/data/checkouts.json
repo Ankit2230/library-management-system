@@ -1,0 +1,12 @@
+[
+    {
+        "user_id": "1",
+        "isbn": "FEJNCEN2EIIJ2DN",
+        "return_date": "2024-07-11"
+    },
+    {
+        "user_id": "2",
+        "isbn": "CJEWN9IJUIWCNINI",
+        "return_date": "2024-07-12"
+    }
+]
